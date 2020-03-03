@@ -1,0 +1,15 @@
+"UPDATE" = "Update";
+"CANCEL" = "Cancel";
+"OK" = "OK";
+"FOUND_NEW_VERSION" = "Found new version";
+"UPDATE_TO_NEW_VERSION" = "Update to the latest version?";
+
+"OPTIONS" = "Options";
+"SCAN_DOCUMENTS" = "Scan Documents";
+"SCAN_ID" = "Scan ID";
+"SCAN_PASSPORT" = "Scan Passport";
+
+"QUICKLOOK" = "Quick Look";
+"SHARE_AS_IMAGES" = "Share as Images";
+"SHARE_AS_PDF" = "Share as PDF";
+"SHARE_AS_ZIP" = "Share as Zip";

@@ -1,0 +1,15 @@
+"UPDATE" = "更新";
+"CANCEL" = "取消";
+"OK" = "好的";
+"FOUND_NEW_VERSION" = "发现新版本";
+"UPDATE_TO_NEW_VERSION" = "更新到最新版本？";
+
+"OPTIONS" = "选项";
+"SCAN_DOCUMENTS" = "扫描文档";
+"SCAN_ID" = "扫描身份证";
+"SCAN_PASSPORT" = "扫描护照";
+
+"QUICKLOOK" = "快速查看";
+"SHARE_AS_IMAGES" = "以图片形式分享";
+"SHARE_AS_PDF" = "以 PDF 形式分享";
+"SHARE_AS_ZIP" = "以压缩包形式分享";
